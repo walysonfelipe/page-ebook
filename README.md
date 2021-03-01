@@ -1,11 +1,11 @@
 <h1 align="center">
-🔗<br>Page e-book
+📘<br>Page e-book
 </h1>
 
 <h4 align="center">
-Page para baixar o e-book: Front-end do zero 
+Página para baixar o E-book: Front-end do zero 
 </h4>
 
-![Resultado final do projeto](assets/image/resultado.jpg)
+![Resultado final do projeto](assets/image/resultado.png)
 
 <h4 align="center">@iuricode</h4>
